@@ -1,0 +1,18 @@
+2023/03/16-06:38:33.422 220c Reusing MANIFEST C:\Users\Tejedor\Documents\botWasap\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/16-06:38:33.422 220c Recovering log #67
+2023/03/16-06:38:33.655 220c Reusing old log C:\Users\Tejedor\Documents\botWasap\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000067.log 
+2023/03/16-06:38:57.302 2770 Level-0 table #75: started
+2023/03/16-06:38:57.455 2770 Level-0 table #75: 1005471 bytes OK
+2023/03/16-06:38:57.504 2770 Delete type=0 #67
+2023/03/16-06:39:01.504 2770 Compacting 1@1 + 4@2 files
+2023/03/16-06:39:01.786 2770 Generated table #76@1: 26184 keys, 2197639 bytes
+2023/03/16-06:39:02.091 2770 Generated table #77@1: 8266 keys, 2171242 bytes
+2023/03/16-06:39:02.342 2770 Generated table #78@1: 46691 keys, 2223312 bytes
+2023/03/16-06:39:02.497 2770 Generated table #79@1: 40148 keys, 873735 bytes
+2023/03/16-06:39:02.497 2770 Compacted 1@1 + 4@2 files => 7465928 bytes
+2023/03/16-06:39:02.569 2770 compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/03/16-06:39:02.570 2770 Delete type=2 #69
+2023/03/16-06:39:02.570 2770 Delete type=2 #70
+2023/03/16-06:39:02.570 2770 Delete type=2 #71
+2023/03/16-06:39:02.570 2770 Delete type=2 #72
+2023/03/16-06:39:02.570 2770 Delete type=2 #75
